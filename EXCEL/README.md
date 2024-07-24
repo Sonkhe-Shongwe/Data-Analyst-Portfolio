@@ -4,7 +4,7 @@
 
 This project analyzes sales data from a coffee shop in South Africa to uncover insights that can drive better decision-making and improve overall business performance.
 
-![Dashboard Image](path/to/your/dashboard/image.png)
+![Dashboard Image](https://github.com/Sonkhe-Shongwe/Data-Analyst-Portfolio/blob/main/EXCEL/Dashboards/Coffee%20Shop%20Sales.png)
 
 ### Technologies and Tools Involved
 
