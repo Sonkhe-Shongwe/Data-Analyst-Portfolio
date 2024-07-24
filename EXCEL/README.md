@@ -34,3 +34,48 @@ This project analyzes sales data from a coffee shop in South Africa to uncover i
 ### Conclusion
 
 This analysis provides valuable insights that can help coffee shop owners in South Africa make informed decisions to enhance their business operations, improve customer satisfaction, and drive revenue growth.
+
+Draw a bold line here
+
+
+# Sales Agent Performance
+
+## Overview
+
+This project analyzes the performance of sales agents in a South African company to evaluate their effectiveness and identify areas for improvement. The analysis focuses on key metrics such as call activities, deals closed, and sales value to provide actionable insights for enhancing sales strategies.
+
+---
+
+![Dashboard Image](path/to/your/dashboard/image.png)
+
+### Technologies and Tools Involved
+
+- **Excel**: Data Filtering and Sorting, Slicers, Pivot Tables, Pivot Charts, Conditional Formatting, Formulas and Functions, Charts and Graphs, Dashboard Design
+
+### Project Objectives
+
+1. **Evaluate Agent Performance**: Analyze and compare the performance of individual sales agents based on key metrics like total calls made, calls reached, deals closed, and deal value.
+
+2. **Identify Performance Trends**: Assess monthly trends in call activities, including call duration, call conversion rates, and call drop rates to determine patterns and areas needing attention.
+
+3. **Optimize Sales Strategies**: Use insights from the analysis to propose strategies for improving agent performance, such as targeting training needs or adjusting sales tactics.
+
+4. **Enhance Decision-Making**: Provide actionable recommendations based on the data to help management make informed decisions about resource allocation and performance management.
+
+### Findings
+
+1. **Agent Performance Overview**: Comparison of total calls made, calls reached, and deals closed by each agent.
+2. **Monthly Trends**: Analysis of monthly trends in sales activities, average call duration, and call drop rates.
+3. **Conversion and Drop Rates**: Evaluation of call conversion rates and call drop rates to identify performance gaps.
+4. **Sales Impact**: Insights into how call activities impact overall sales value.
+
+### Recommendations
+
+1. **Training and Development**: Implement targeted training programs for agents based on performance data to address specific areas of improvement.
+2. **Strategy Adjustments**: Adjust sales strategies and tactics based on performance trends and insights to optimize outcomes.
+3. **Resource Allocation**: Allocate resources more effectively based on agent performance and identified needs.
+4. **Performance Monitoring**: Regularly monitor and review performance metrics to ensure continuous improvement and address emerging issues.
+
+### Conclusion
+
+This analysis provides a comprehensive view of sales agent performance, offering insights and recommendations to enhance effectiveness, improve sales outcomes, and drive overall business success.
