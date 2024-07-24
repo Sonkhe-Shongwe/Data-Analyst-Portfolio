@@ -35,8 +35,7 @@ This project analyzes sales data from a coffee shop in South Africa to uncover i
 
 This analysis provides valuable insights that can help coffee shop owners in South Africa make informed decisions to enhance their business operations, improve customer satisfaction, and drive revenue growth.
 
-Draw a bold line here
-
+---
 
 # Sales Agent Performance
 
@@ -44,9 +43,7 @@ Draw a bold line here
 
 This project analyzes the performance of sales agents in a South African company to evaluate their effectiveness and identify areas for improvement. The analysis focuses on key metrics such as call activities, deals closed, and sales value to provide actionable insights for enhancing sales strategies.
 
----
-
-![Dashboard Image](path/to/your/dashboard/image.png)
+![Dashboard Image](https://github.com/Sonkhe-Shongwe/Data-Analyst-Portfolio/blob/main/EXCEL/Dashboards/Sales%20Dashboard.png)
 
 ### Technologies and Tools Involved
 
